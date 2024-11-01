@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>puffin/ui/Puffin/MainWindow.qml</file>
+        <file>puffin/ui/Puffin/Style.qml</file>
+        <file>puffin/ui/Puffin/qmldir</file>
+    </qresource>
+</RCC>

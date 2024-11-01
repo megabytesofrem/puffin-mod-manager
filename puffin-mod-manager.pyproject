@@ -1,0 +1,12 @@
+{
+    "files": [
+        "README.md",
+        "main.py",
+        "puffin/game_metadata.py",
+        "puffin/overlay_utils.py",
+        "puffin/ui/Puffin/MainWindow.qml",
+        "puffin/ui/Puffin/Style.qml",
+        "puffin/ui/Puffin/qmldir",
+        "resources.qrc"
+    ]
+}
